@@ -2,5 +2,7 @@
   "name": "Adelaide Hospitality Digital Partners (AHDP)",
   "description": "Digital marketing and analytics consultancy helping independent cafés and restaurants in Adelaide improve online visibility, customer retention and marketing performance.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
